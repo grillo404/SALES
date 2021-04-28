@@ -1,0 +1,15 @@
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\bin\Debug\net5.0\Sales.Bussiness.deps.json
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\bin\Debug\net5.0\Sales.Bussiness.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\bin\Debug\net5.0\ref\Sales.Bussiness.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\bin\Debug\net5.0\Sales.Bussiness.pdb
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\bin\Debug\net5.0\Sales.DataAccess.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\bin\Debug\net5.0\Sales.DataAccess.pdb
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.csprojAssemblyReference.cache
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.AssemblyInfo.cs
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.csproj.CopyComplete
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\ref\Sales.Bussiness.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.Bussiness\obj\Debug\net5.0\Sales.Bussiness.pdb

@@ -1,0 +1,15 @@
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\bin\Debug\net5.0\Sales.DataAccess.deps.json
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\bin\Debug\net5.0\Sales.DataAccess.runtimeconfig.json
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\bin\Debug\net5.0\Sales.DataAccess.runtimeconfig.dev.json
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\bin\Debug\net5.0\Sales.DataAccess.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\bin\Debug\net5.0\ref\Sales.DataAccess.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\bin\Debug\net5.0\Sales.DataAccess.pdb
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.csprojAssemblyReference.cache
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.AssemblyInfo.cs
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\ref\Sales.DataAccess.dll
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.pdb
+C:\Users\Grillo 404\Desktop\PT-DigitalWare\PT_Sales\Sales.DataAccess\obj\Debug\net5.0\Sales.DataAccess.genruntimeconfig.cache
